@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+requests==2.31.0
+pandas==2.0.2
+clickhouse_driver==0.2.6
