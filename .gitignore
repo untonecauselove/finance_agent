@@ -11,4 +11,6 @@ __pycache__/creds.cpython-39.pyc
 .idea/finance_agent.iml
 __pycache__/exchange_rates.cpython-39.pyc
 __pycache__/exchange_rates.cpython-39.pyc
+__pycache__
+*.pyc
 *.pyc
