@@ -8,3 +8,7 @@ creds.py
 .idea/vcs.xml
 __pycache__/creds.cpython-39.pyc
 .idea/workspace.xml
+.idea/finance_agent.iml
+__pycache__/exchange_rates.cpython-39.pyc
+__pycache__/exchange_rates.cpython-39.pyc
+*.pyc
